@@ -1,1 +1,2 @@
 nginx is a web server
+nginx run on port 80
