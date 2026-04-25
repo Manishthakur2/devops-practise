@@ -2,3 +2,4 @@ nginx is a web server
 nginx run on port 80
 docker is a containerization tool
 testing
+cpu check: ps aux --sort=-%cpu | head -5
